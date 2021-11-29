@@ -1,0 +1,18 @@
+body {color: darkcyan;
+background-color: rgb(224, 131, 224);
+}
+.heading
+{
+    width: 80%;
+    font-size: 20px;
+}
+.name_of_object
+{
+    color: rgb(56, 53, 53);
+}
+#camera 
+{
+    border: green;
+    width: 350px;
+    height: 300px;
+}
